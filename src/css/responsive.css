@@ -1,0 +1,7 @@
+@media screen and (max-width: 950px) {
+    .cardAll {
+        width: 80%; /* Ajusta el ancho según tus necesidades */
+        padding: 30px; /* Ajusta el relleno según tus necesidades */
+    }
+
+}
